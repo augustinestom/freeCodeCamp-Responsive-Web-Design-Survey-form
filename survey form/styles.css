@@ -1,0 +1,26 @@
+h1{
+  text-align:center;
+}
+#description{
+text-align:center;  
+}
+body{
+  background-color:#9ac3e0;
+}
+form{
+background-color:#818fd2;
+margin-right:100px;
+margin-bottom:100px;
+
+margin-left:100px;
+}
+#submit {
+    background-color: #59ace0;
+    border-radius: 4px;
+    color: white;
+    font-size: 1em;
+    height: 40px;
+    width: 96px;
+    margin: 10px;
+    border: 0px solid;
+}
